@@ -1,0 +1,12 @@
+    body{
+        font-size: 1rem;
+        font-family: 'Roboto Nono', monospace;
+        font-weight: 700px;
+        background-color: #48789f;
+    }
+    
+    img{
+        width: 300px;
+        height: 500px;
+        /* object-fit: cover; */
+    }
