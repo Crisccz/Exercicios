@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f5e9;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border: 1px solid #a0d6b4;
+    background-color: #d9f0df;
+    padding: 20px;
+}
+
+.movie {
+    width: 30%;
+    text-align: center;
+}
+
+.movie img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #999;
+}
+
+.details {
+    width: 60%;
+    padding: 0 20px;
+}
+
+.details p {
+    margin-bottom: 15px;
+}

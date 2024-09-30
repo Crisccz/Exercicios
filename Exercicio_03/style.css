@@ -1,0 +1,41 @@
+body{
+    margin: auto;
+    width: 80%;
+    /* border: 1px solid black; */
+    background-color: aqua;
+}
+
+.filmes{
+    border: 1px solid black;
+    padding: 20px;
+    width: 250px;
+}
+
+div{
+    border: 1px solid black;
+    height: 100%;
+}
+
+nav{
+    font-size: 30px;
+    padding: 20px;
+}
+
+#texto{
+    text-align: center;
+}
+#vel2{
+    float: left;
+}
+
+#vel4{
+    float: right;
+}
+#vel5{
+    float: left;
+}
+
+#final{
+    clear: left;
+    border: none;
+}
